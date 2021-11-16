@@ -1,0 +1,2 @@
+.container{display:flex;flex-direction:column;justify-content:center;align-items:center}.container__list{display:flex;padding:20px;list-style:none}.container__tab{padding:20px;background-color:transparent;color:#000;border:none;outline:none;cursor:pointer;font-size:17px;width:100px;text-decoration:none}.container__tab--active{background:grey}.Home{padding-right:15px}.Tabs{padding-left:15px}.App{display:flex;flex-direction:column;justify-content:center;align-items:center;font-size:25px;padding:10px}
+/*# sourceMappingURL=main.1f46617b.chunk.css.map */
